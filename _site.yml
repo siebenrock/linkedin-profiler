@@ -1,0 +1,6 @@
+name: "LinkedIn Profiler"
+navbar:
+  title: "LinkedIn Profiler"
+  left:
+    - text: "LinkedIn Profiler"
+      href: index.html
